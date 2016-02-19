@@ -2,6 +2,8 @@
 title: Old Faithful Geyser
 ---
 
+#github test
+
 The [Old Faithful Geyser](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html) 
 data set is a well-known data set that depicts the relationship 
 of the waiting time between eruptions and the duration of the 
